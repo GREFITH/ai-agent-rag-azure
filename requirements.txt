@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+python-dotenv
+openai
+pydantic
+pydantic-settings
+scikit-learn
+numpy
