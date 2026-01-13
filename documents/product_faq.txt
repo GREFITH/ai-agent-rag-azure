@@ -1,0 +1,19 @@
+PRODUCT FAQ - AI AGENT PLATFORM
+===============================
+
+Q: What is the AI Agent Platform?
+A: The AI Agent Platform is a solution for building and deploying intelligent AI agents that can search documents, answer questions, and automate workflows.
+
+Q: What are the main features?
+A: Key features include:
+- Document retrieval and search
+- Conversation memory
+- Integration with APIs
+- Real-time responses
+- Cloud deployment on Azure
+
+Q: What AI models are supported?
+A: We support Azure OpenAI models including GPT-4 and GPT-3.5-turbo.
+
+Q: How does document search work?
+A: The system converts documents into embeddings, stores them in a vector database, and retrieves relevant information when users ask questions.
